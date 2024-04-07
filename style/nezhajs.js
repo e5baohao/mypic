@@ -4,6 +4,6 @@ var avatar=document.querySelector(".item img")
 var footer=document.querySelector("div.is-size-7")
 footer.innerHTML="探针"
 footer.style.visibility="visible"
-avatar.src="https://fastly.jsdelivr.net/gh/baipiaoking88/picx-images-hosting@master/akemi1.64u3k1qot3o0.webp"
+avatar.src="https://file.uhsea.com/2403/06c69020d99964b6b2b2ad8b65ea44f9VC.webp"
 avatar.style.visibility="visible"
 }
